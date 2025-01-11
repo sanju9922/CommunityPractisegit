@@ -4,4 +4,5 @@ Here goes a list of trains :
 3. Okha Tuticorin express
 4.BNC MDU Vande Bharath SF EXP
 5. Mysuru Thiruvananthapuram SF Express
+6. SBC MDU SF Passenger
 
